@@ -1,0 +1,7 @@
+{
+    "name": "elib-tools",
+    "version": "0.0.1",
+    "dependencies": {
+        "file-type": ""
+    }
+}
